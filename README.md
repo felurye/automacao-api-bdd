@@ -1,2 +1,2 @@
-# automacao-api-bdd
-Repositório para pratica de automação de testes de API com BDD - Curso do QaOps
+# Automação de API com DBB - Curso QaOps
+Repositório voltado para a prática de automação de testes de API com BDD.
