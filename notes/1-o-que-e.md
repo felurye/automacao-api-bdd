@@ -1,13 +1,10 @@
 # O que é BDD
 
 ### BDD
-
 * Behavior Driven Development (BDD ou Desenvolvimento Orientado por Comportamento) é uma forma de colaboração no desenvolvimento de software que age como ponte de comunicação entre negócio e tecnologia;
-
 * BDD ajuda os times a comunicarem requisitos com mais precisão, descobrirem defeitos mais cedo e entrar valor ao usuário.
 
 ### Nota do criador
-
 <blockquote>"Infelizmente, você não pode simplesmente baixar o Cucumber, começar a escrever os arquivos .features do Cucumber e esperar que um nirvana de verdade e iluminação aconteça por conta própria.
 Há um processo a seguir que envolve muitas funções na equipe de software. Esse processo é chamado de BDD.
 O BDD não é uma ferramenta que você pode baixar. Gojko Adzic deu ao BDD um nome novo e melhor: especificação por exemplo.”</blockquote>

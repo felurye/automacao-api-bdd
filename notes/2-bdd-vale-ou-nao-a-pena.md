@@ -16,7 +16,6 @@
 
 > "Se você está usando o Cucumber como ferramenta de testes, você está fazendo o uso incorreto." - Aslak Hellesøy (Criador do Cucumber)
 
-
 ## Quando o BDD vale a pena?
 Quando há um time unificado:
 * QA normalmente faz validação e testes funcionais
@@ -28,7 +27,6 @@ Quando há um time unificado:
     * Todo mundo faz tudo, cada pessoa compartilha o seu conhecimento mais profundo
     * Não tem analista de negócio
     * Quando existe uma certa rotatividade
-
 
 ### Quando o BDD não vale a pena?
 * Divisão
